@@ -1,385 +1,303 @@
 [
     {
-        "id": "lattitude-expedition",
-        "name": "Lattitude Expedition",
-        "price": 135.92,
-        "category": "perfume",
+        "id": "mobilidade-reduzida",
+        "name": "Condutor de Mobilidade Reduzida",
+        "price": 200.00,
+        "discount": 0.25,
+        "category": "condutores",
         "tags": [
-            "adocicado",
-            "sedutor",
-            "masculino",
-            "gift",
-            "madeirado"
+            "profissional",
+            "passageiros",
+            "especial"
         ],
-        "image": "/images/lattitude_expedition_2.jpg",
-        "description": "Adocicado Sedutor. Notas de Limão Siciliano, Mandarina e Lavandin. Perfeito para desafios."
+        "image": "/images/courses/mobilidade.jpg",
+        "duration": "50 horas",
+        "syllabus": [
+            "Legislação de Trânsito",
+            "Direção Defensiva",
+            "Primeiros Socorros",
+            "Relacionamento Interpessoal"
+        ],
+        "highlights": "Ideal para quem quer atuar no transporte de passageiros com necessidades especiais.",
+        "description": "Capacitação para condutores de veículos para passageiros com mobilidade reduzida."
     },
     {
-        "id": "ella-radiance",
-        "name": "Ella Radiance",
-        "price": 135.92,
-        "category": "perfume",
+        "id": "transporte-escolar",
+        "name": "Transporte Escolar",
+        "price": 200.00,
+        "discount": 0.25,
+        "category": "condutores",
         "tags": [
-            "floral",
-            "vibrante",
-            "feminino",
-            "gift",
-            "doce"
+            "profissional",
+            "formacao",
+            "escolar"
         ],
-        "image": "/images/ella_radiance.jpg",
-        "description": "Floral Vibrante. Energia do sol com notas de Pera, Bergamota e Jasmim Sambac."
+        "image": "/images/courses/banner_total.jpg",
+        "duration": "50 horas",
+        "syllabus": [
+            "Legislação Específica",
+            "Direção Defensiva",
+            "Noções de Primeiros Socorros",
+            "Psicologia aplicada ao transporte"
+        ],
+        "highlights": "Fundamental para atuar de forma legal e segura com transporte de crianças.",
+        "description": "Formação especializada para condutores de transporte escolar. 100% Online e Homologado pelo SENATRAN."
     },
     {
-        "id": "tropicalia-kit",
-        "name": "Kit Soul Brasileira Tropicália",
-        "price": 95.90,
-        "category": "corpo",
+        "id": "mopp",
+        "name": "Transporte de Produtos Perigosos (MOPP)",
+        "price": 200.00,
+        "discount": 0.25,
+        "category": "condutores",
         "tags": [
-            "fresco",
-            "verao",
-            "feminino",
-            "gift"
+            "profissional",
+            "carga",
+            "perigoso"
         ],
-        "image": "/images/tropicalia.jpg",
-        "description": "O poder do borogodó brasileiro. Kit com Hidratante, Sabonete Líquido e Body Splash (Mini)."
+        "image": "/images/courses/mopp.jpg",
+        "duration": "50 horas",
+        "syllabus": [
+            "Prevenção de Incêndio",
+            "Movimentação de Produtos Perigosos",
+            "Legislação de Trânsito",
+            "Meio Ambiente"
+        ],
+        "highlights": "O curso mais requisitado no mercado de transporte de cargas.",
+        "description": "Curso essencial para movimentação e operação de produtos perigosos. Válido em todo território nacional."
     },
     {
-        "id": "aroma-bamboo",
-        "name": "Kit Aroma Di Bamboo",
-        "price": 159.92,
-        "category": "casa",
+        "id": "transporte-coletivo",
+        "name": "Transporte Coletivo de Passageiros",
+        "price": 200.00,
+        "discount": 0.25,
+        "category": "condutores",
         "tags": [
-            "casa",
-            "fresco",
-            "gift",
-            "unissex"
+            "profissional",
+            "formacao",
+            "passageiros"
         ],
-        "image": "/images/aroma_di_bamboo.jpg",
-        "description": "Imersão na natureza. Difusor e Spray de ambientes com nota floral confortável."
+        "image": "/images/courses/coletivo.jpg",
+        "duration": "50 horas",
+        "syllabus": [
+            "Relação Interpessoal",
+            "Direção Defensiva",
+            "Primeiros Socorros",
+            "Legislação de Trânsito"
+        ],
+        "highlights": "Especialize-se para atuar em empresas de ônibus e turismo.",
+        "description": "Especialização para motoristas de ônibus e transporte coletivo. Reconhecido em todo o Brasil."
     },
     {
-        "id": "empire-gold",
-        "name": "Empire Gold",
-        "price": 174.90,
-        "category": "perfume",
+        "id": "emergencia",
+        "name": "Veículos de Emergência",
+        "price": 200.00,
+        "discount": 0.25,
+        "category": "condutores",
         "tags": [
-            "madeirado",
-            "forte",
-            "masculino",
-            "festa",
-            "gift"
+            "profissional",
+            "urgencia",
+            "emergencia"
         ],
-        "image": "/images/empire_legacy_gold.jpg",
-        "description": "A fragrância do homem de sucesso. Explosão de grapefruit, maçã verde e couro."
+        "image": "/images/courses/emergencia.jpg",
+        "duration": "50 horas",
+        "syllabus": [
+            "Legislação de Trânsito Especial",
+            "Direção Defensiva",
+            "Primeiros Socorros Avançado",
+            "Ética Profissional"
+        ],
+        "highlights": "Capacitação vital para condutores de ambulâncias e resgate.",
+        "description": "Treinamento para condutores de veículos de socorro e emergência. Flexibilidade total de horários."
     },
     {
-        "id": "spot-her",
-        "name": "Spot For Her",
-        "price": 144.90,
-        "category": "perfume",
+        "id": "instrutor-transito",
+        "name": "Instrutor de Trânsito",
+        "price": 200.00,
+        "discount": 0.25,
+        "category": "condutores",
         "tags": [
-            "doce",
-            "frutal",
-            "feminino",
-            "festa",
-            "gift"
+            "profissional",
+            "carreira",
+            "instrutor"
         ],
-        "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=300&q=80",
-        "description": "Inesperada e envolvente. Cereja preta, framboesa e sândalo."
+        "image": "/images/courses/instrutor.jpg",
+        "duration": "180 horas",
+        "syllabus": [
+            "Fundamentos do Trânsito",
+            "Cidadania e Trânsito",
+            "Linguagem e Comunicação",
+            "Prática de Ensino"
+        ],
+        "highlights": "Torne-se um instrutor credenciado e mude o rumo da sua carreira.",
+        "description": "Formação profissional para instrutores de trânsito. Amplie suas oportunidades no mercado."
     },
     {
-        "id": "routine-clean",
-        "name": "Gel de Limpeza Routine",
-        "price": 38.90,
-        "category": "skincare",
+        "id": "carga-indivisivel",
+        "name": "Transporte de Carga Indivisível",
+        "price": 200.00,
+        "discount": 0.25,
+        "category": "condutores",
         "tags": [
-            "skincare",
-            "pele oleosa",
-            "trabalho",
-            "self"
+            "profissional",
+            "especial",
+            "carga"
         ],
-        "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=300&q=80",
-        "description": "Limpeza profunda e controle de oleosidade."
+        "image": "/images/courses/indivisivel.jpg",
+        "duration": "50 horas",
+        "syllabus": [
+            "Legislação de Cargas Excedentes",
+            "Direção Defensiva",
+            "Sinalização de Risco",
+            "Primeiros Socorros"
+        ],
+        "highlights": "Ideal para especialistas em logística pesada e transportes especiais.",
+        "description": "Capacitação para transporte de cargas excedentes e indivisíveis. Curso 100% online."
     },
     {
-        "id": "h-men-oil",
-        "name": "Óleo para Barba H-Men",
-        "price": 45.90,
-        "category": "barba",
+        "id": "monitor-escolar",
+        "name": "Monitor Escolar",
+        "price": 175.00,
+        "category": "ead",
         "tags": [
-            "barba",
-            "masculino",
-            "self"
+            "livre",
+            "online",
+            "educacao"
         ],
-        "image": "/images/h_men_line.jpg",
-        "description": "Hidrata e amacia os fios da barba."
+        "image": "/images/courses/monitor_escolar.jpg",
+        "duration": "20 horas",
+        "syllabus": [
+            "Papel do Monitor",
+            "Segurança no Transporte",
+            "Primeiros Socorros Básico",
+            "Atendimento a PcD"
+        ],
+        "highlights": "Complemento ideal para o transporte escolar profissional.",
+        "description": "Curso livre para monitores de transporte escolar. Modalidade EAD prática e rápida."
     },
     {
-        "id": "empire-icon",
-        "name": "Empire Icon",
-        "price": 279.90,
-        "category": "perfume",
+        "id": "nr16",
+        "name": "NR 16 - Atividades Perigosas",
+        "price": 175.00,
+        "category": "ead",
         "tags": [
-            "madeirado",
-            "elegante",
-            "masculino",
-            "gift",
-            "premium"
+            "seguranca",
+            "nr",
+            "profissional"
         ],
-        "image": "/images/empire_icon_one.jpg",
-        "description": "Ícone. Amadeirado elegante com canela, pimenta e lavanda."
+        "image": "/images/courses/nr16.jpg",
+        "duration": "16 horas",
+        "syllabus": [
+            "Conceitos de Periculosidade",
+            "Adicionais para eletricistas",
+            "Medidas de Controle",
+            "Legislação MTE"
+        ],
+        "highlights": "Garanta a conformidade da sua empresa e a segurança da sua equipe.",
+        "description": "Norma regulamentadora para atividades e operações perigosas. Certificado imediato."
     },
     {
-        "id": "empire-the-one",
-        "name": "Empire The One",
-        "price": 279.90,
-        "category": "perfume",
+        "id": "nr12",
+        "name": "NR 12 - Máquinas e Equipamentos",
+        "price": 175.00,
+        "category": "ead",
         "tags": [
-            "madeirado",
-            "sedutor",
-            "masculino",
-            "gift",
-            "premium"
+            "seguranca",
+            "nr",
+            "tecnico"
         ],
-        "image": "/images/empire_icon_one.jpg",
-        "description": "Seu poder é único. Amadeirado sedutor com notas de abacaxi e cardamomo."
+        "image": "/images/courses/nr12.jpg",
+        "duration": "16 horas",
+        "syllabus": [
+            "Conceitos de Máquinas",
+            "Sistemas de Proteção",
+            "Manutenção Segura",
+            "Análise de Risco"
+        ],
+        "highlights": "Reduza acidentes e garanta a operação segura de qualquer maquinário.",
+        "description": "Segurança no trabalho em máquinas e equipamentos. Fundamental para a indústria."
     },
     {
-        "id": "inebriante-parfum",
-        "name": "Inebriante Eau de Parfum",
-        "price": 284.90,
-        "category": "perfume",
+        "id": "nr11",
+        "name": "NR 11 - Transporte e Movimentação",
+        "price": 175.00,
+        "category": "ead",
         "tags": [
-            "madeirado",
-            "luxo",
-            "masculino",
-            "gift",
-            "festa"
+            "seguranca",
+            "nr",
+            "logistica"
         ],
-        "image": "/images/inebriante_header.jpg",
-        "description": "O Elixir da sofisticação. Sândalo indiano e notas luxuosas. Premiado!"
+        "image": "/images/courses/nr11.jpg",
+        "duration": "16 horas",
+        "syllabus": [
+            "Transporte Industrial",
+            "Operação de Empilhadeiras",
+            "Normas de Armazenamento",
+            "Checklist de Veículos"
+        ],
+        "highlights": "Essencial para profissionais de logística e estoque.",
+        "description": "Norma para transporte, movimentação, armazenagem e manuseio de materiais."
     },
     {
-        "id": "lattitude-adventure",
-        "name": "Lattitude Adventure",
-        "price": 169.90,
-        "category": "perfume",
+        "id": "primeiros-socorros",
+        "name": "Noções Básicas de Primeiros Socorros",
+        "price": 175.00,
+        "category": "ead",
         "tags": [
-            "adocicado",
-            "envolvente",
-            "masculino",
-            "fresco"
+            "saude",
+            "emergencia",
+            "socorro"
         ],
-        "image": "/images/lattitude_adventure_ultra.jpg",
-        "description": "Conecte-se com sua liberdade. Bergamota, maçã-verde e sândalo."
+        "image": "/images/courses/socorros.jpg",
+        "duration": "10 horas",
+        "syllabus": [
+            "Avaliação da Vítima",
+            "Ressuscitação Cardiopulmonar",
+            "Tratamento de Feridas",
+            "Atendimento a Engasgos"
+        ],
+        "highlights": "Conhecimento que salva vidas, obrigatório em muitos setores.",
+        "description": "Conhecimentos vitais para agir em situações de emergência. Recomendado para todos."
     },
     {
-        "id": "lattitude-stamina",
-        "name": "Lattitude Stamina",
-        "price": 169.90,
-        "category": "perfume",
+        "id": "nr06",
+        "name": "NR 06 - EPIs",
+        "price": 175.00,
+        "category": "ead",
         "tags": [
-            "amadeirado",
-            "masculino",
-            "energia"
+            "seguranca",
+            "nr",
+            "protecao"
         ],
-        "image": "/images/lattitude_stamina_brave.jpg",
-        "description": "Conecte-se com sua potência. Mandarina verde e cedro."
+        "image": "/images/courses/nr06.jpg",
+        "duration": "8 horas",
+        "syllabus": [
+            "Tipos de EPI",
+            "Responsabilidades do Empregado",
+            "Guarda e Conservação",
+            "Critérios de Substituição"
+        ],
+        "highlights": "Básico e indispensável para qualquer trabalhador em ambiente de risco.",
+        "description": "Uso correto de Equipamentos de Proteção Individual. Essencial para conformidade."
     },
     {
-        "id": "gl-embaixador",
-        "name": "GL Embaixador Gold",
-        "price": 209.90,
-        "category": "perfume",
+        "id": "nr10",
+        "name": "NR 10 - Segurança em Eletricidade",
+        "price": 175.00,
+        "category": "ead",
         "tags": [
-            "adocicado",
-            "elegante",
-            "masculino",
-            "festa"
+            "seguranca",
+            "nr",
+            "eletrica"
         ],
-        "image": "/images/gl_embaixador.jpg",
-        "description": "Coleção Gusttavo Lima. Adocicado elegante com pomelo e canela."
-    },
-    {
-        "id": "h-men-impact",
-        "name": "H-Men Impact",
-        "price": 139.90,
-        "category": "perfume",
-        "tags": [
-            "aromatico",
-            "vibrante",
-            "masculino",
-            "dia-a-dia"
+        "image": "/images/courses/nr10.jpg",
+        "duration": "40 horas",
+        "syllabus": [
+            "Riscos Elétricos",
+            "EPI e EPC em Eletricidade",
+            "Sistemas de Aterramento",
+            "Normas e Procedimentos"
         ],
-        "image": "/images/h_men_impact.jpg",
-        "description": "Aromático vibrante. Bergamota, lavanda e sândalo."
-    },
-    {
-        "id": "enigma",
-        "name": "Enigma",
-        "price": 169.90,
-        "category": "perfume",
-        "tags": [
-            "aromatico",
-            "misterioso",
-            "masculino",
-            "noite"
-        ],
-        "image": "/images/enigma_grand.jpg",
-        "description": "O segredo revelado. Mandarina, lavanda e couro toscana."
-    },
-    {
-        "id": "grand-reserva",
-        "name": "Grand Reserva",
-        "price": 159.90,
-        "category": "perfume",
-        "tags": [
-            "madeirado",
-            "envolvente",
-            "masculino",
-            "trabalho"
-        ],
-        "image": "/images/enigma_grand.jpg",
-        "description": "Boas escolhas permanecem. Notas licorosas com âmbar."
-    },
-    {
-        "id": "grace-lumiere",
-        "name": "Grace Lumière",
-        "price": 179.90,
-        "category": "perfume",
-        "tags": [
-            "floral",
-            "elegante",
-            "feminino",
-            "festa"
-        ],
-        "image": "/images/grace_lumiere.jpg",
-        "description": "Ilumine à primeira vista. Floral elegante com Pera e Jasmim."
-    },
-    {
-        "id": "grace-midnight",
-        "name": "Grace Midnight",
-        "price": 179.90,
-        "category": "perfume",
-        "tags": [
-            "adocicado",
-            "envolvente",
-            "feminino",
-            "noite",
-            "festa",
-            "best-seller"
-        ],
-        "image": "/images/grace_midnight.jpg",
-        "description": "O best-seller premiado. Adocicado envolvente com Framboesa e Baunilha."
-    },
-    {
-        "id": "grace-la-rose",
-        "name": "Grace La Rose Sublime",
-        "price": 179.90,
-        "category": "perfume",
-        "tags": [
-            "chipre",
-            "elegante",
-            "feminino",
-            "romantico"
-        ],
-        "image": "/images/grace_larose.jpg",
-        "description": "Inspire à primeira vista. Pétalas de Rosa de Grasse."
-    },
-    {
-        "id": "leser",
-        "name": "Lesér",
-        "price": 269.90,
-        "category": "perfume",
-        "tags": [
-            "adocicado",
-            "luxo",
-            "feminino",
-            "festa"
-        ],
-        "image": "/images/leser.jpg",
-        "description": "Sofisticação e luxo. Explosão de amoras e orquídea."
-    },
-    {
-        "id": "rebelle",
-        "name": "Rebelle",
-        "price": 174.90,
-        "category": "perfume",
-        "tags": [
-            "floral",
-            "confortavel",
-            "feminino",
-            "jovem"
-        ],
-        "image": "/images/rebelle.jpg",
-        "description": "A delicada ousadia de ser. Notas de Rosa e Amêndoa."
-    },
-    {
-        "id": "venyx-lor",
-        "name": "Venyx L'Or",
-        "price": 169.90,
-        "category": "perfume",
-        "tags": [
-            "chipre",
-            "elegante",
-            "feminino",
-            "poder"
-        ],
-        "image": "/images/venyx.jpg",
-        "description": "A essência do poder feminino. Notas de folhas brancas e madeira."
-    },
-    {
-        "id": "dazzle",
-        "name": "Dazzle",
-        "price": 139.90,
-        "category": "perfume",
-        "tags": [
-            "adocicado",
-            "sedutor",
-            "feminino",
-            "jovem"
-        ],
-        "image": "/images/dazzle.jpg",
-        "description": "Beleza que irradia. Frutas vermelhas e marshmallow."
-    },
-    {
-        "id": "aura-beauty",
-        "name": "Aura Beauty",
-        "price": 179.90,
-        "category": "perfume",
-        "tags": [
-            "floral",
-            "confortavel",
-            "feminino",
-            "dia-a-dia"
-        ],
-        "image": "/images/aura.jpg",
-        "description": "O perfume da sua essência. Floral celestial e fresco."
-    },
-    {
-        "id": "vibez-masc",
-        "name": "Vibez Masculino",
-        "price": 139.90,
-        "category": "perfume",
-        "tags": [
-            "amadeirado",
-            "jovem",
-            "masculino",
-            "gift"
-        ],
-        "image": "/images/vibez.jpg",
-        "description": "Escolha sua vibe. Abacaxi e anis."
-    },
-    {
-        "id": "sacola-ins-far",
-        "name": "Sacola Presente Instituto FAR",
-        "price": 23.90,
-        "category": "acessorios",
-        "tags": [
-            "gift",
-            "social"
-        ],
-        "image": "/images/sacolas.jpg",
-        "description": "Um presente que faz o sol brilhar mais forte. Lucro revertido para o social."
+        "highlights": "Obrigatório para eletricistas e profissionais que atuam com energia.",
+        "description": "Segurança em instalações e serviços em eletricidade. Curso completo EAD."
     }
 ]
